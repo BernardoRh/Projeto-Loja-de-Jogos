@@ -1,0 +1,41 @@
+* {
+    width: auto;
+    margin: 10px;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background: #4b4a4a;
+}
+img{
+    object-fit: cover;
+}
+.cabecalho{
+    background-color: #727272;
+    text-align: center;
+}
+#pesquisaimg{
+    width: 4%;
+}
+#logo{
+    width: 4%;
+}
+.campos{
+    background-color: #727272;
+    padding: 1%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: auto;
+}
+#nav-bar{
+    display: flex;
+    background-color: #727272;
+}
+.jogos-flex-box{
+    display: flex;
+}
+
+.jogos-flex-box > div{
+    padding: 2%;
+    background-color: #727272;
+}
